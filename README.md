@@ -3,7 +3,7 @@
 the steps to create dataset is as follows 
 
 # 1. click different images of foot in various positions such that both foot is visible
-# 2 . go to use robosense.ai and select all the images then select object detection and use own way
+# 2 . go to use makesense.ai and select all the images then select object detection and then add following labels 0,1,2,3,4,5 use own way
 # 3. select point and mark as follows 
 # 4  In each image mark these key points 
             left foot small toe as 0
